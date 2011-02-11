@@ -1,0 +1,147 @@
+END-USER LICENSE AGREEMENT FOR PROPHOTO
+
+NOTICE TO USER:
+
+PLEASE READ THE TERMS AND CONDITIONS OF THIS END-USER LICENSE AGREEMENT 
+CAREFULLY BEFORE CONTINUING WITH INSTALLATION OF PROPHOTO.  BY CLICKING 
+ON THE “ACCEPT” BUTTON, OPENING THE ZIP FILE, COPYING, INSTALLING OR USING 
+ANY PORTION OF PROPHOTO, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS 
+AGREEMENT.  THIS AGREEMENT IS ENFORCEABLE AGAINST YOU AND ANY LEGAL ENTITY 
+THAT OBTAINED PROPHOTO ON WHOSE BEHALF IT WAS USED.  IF YOU DO NOT AGREE 
+TO THE TERMS OF THIS AGREEMENT, DO NOT USE PROPHOTO.
+
+This End-User License Agreement (the "EULA") is a legal agreement between 
+you (either an individual or an entity) and NetRivet, Inc. ("NetRivet") for 
+ProPhoto which includes associated software components, media, printed 
+materials, and "online" or electronic documentation (collectively referred 
+to as "ProPhoto"). 
+
+1. GRANT OF LICENSE.
+
+NetRivet, Inc. grants you a non-exclusive license to download, install, 
+and use ProPhoto consistent with the express terms and conditions of the 
+EULA.  This includes the right to install and use two copies of ProPhoto 
+and to make a reasonable number of copies of ProPhoto for backup and 
+archival purposes.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+(a) Support Services.  NetRivet may provide you with support services 
+related to ProPhoto (collectively referred to as "Support Services"). Any 
+supplemental software code provided to you as part of the Support Services 
+shall be considered part of ProPhoto and subject to the terms and conditions 
+of this EULA.
+
+(b) Footer credit links.  Except as otherwise provided, you shall not remove 
+or alter any footer credit links on your installation or use of ProPhoto.  
+Removal or altering of the footer credit links will void all customer support, 
+future upgrades, and may constitute a material breach of this EULA.  
+Notwithstanding, if you have purchased the non-branded version of ProPhoto, 
+you may remove or alter the footer credit links.
+
+(c) Unauthorized Use.  You shall not modify, copy, duplicate, make derivative 
+works, distribute, sell, rent, lease, lend, assign, convey, license, or 
+sublicense ProPhoto or any of its individual files or authorize any portion of 
+ProPhoto to be copied onto another individual or entity computer except as is 
+expressly permitted under this EULA.
+
+(d) Prohibition on Reverse Engineering, Decompilation, and Disassembly. You 
+shall not reverse engineer, decompile, or disassemble ProPhoto, except and only 
+to the extent that such activity is expressly permitted by tutorials and 
+documentation for ProPhoto as found on the website: http://www.prophotoblogs.com/ 
+
+(e) Compliance with Applicable Laws.  You agree to comply with all applicable 
+laws regarding use of ProPhoto.
+
+3.  OTHER LICENSING RIGHTS.
+
+The parties acknowledge that some aspects of source code that is licensed under 
+the GNU General Public License, Version 2 (the "GPL") has been incorporated into 
+files that are part of ProPhoto.  You acknowledge that NetRivet has complied in 
+all respects with the terms and conditions of the GPL, including but not limited 
+to providing you with machine/readable source code of ProPhoto.  As a condition 
+of your acceptance of the EULA, you further acknowledge: ProPhoto is a separate 
+and independent work from any program governed by the GPL; NetRivet has a 
+copyrightable interest in ProPhoto; it is not a derivative work of any program or 
+work under the GPL; and ProPhoto is not otherwise subject to the terms and 
+conditions of the GPL.
+
+4. TERMINATION.
+
+NetRivet may terminate this EULA at its sole discretion if you fail to comply with 
+the terms and conditions of this EULA. In such event, you must destroy all copies 
+of ProPhoto in your possession.
+
+5.  INTELLECTUAL PROPERTY.	
+
+All title, including but not limited to copyrights, in and to ProPhoto and any 
+copies thereof are owned by NetRivet. All title and intellectual property rights 
+in and to the content which may be accessed through use of ProPhoto is the 
+property of the respective content owner and may be protected by applicable 
+copyright or other intellectual property laws and treaties. Except as otherwise 
+provided, this EULA grants you no rights to use such content. All rights not 
+expressly granted are reserved by NetRivet, Inc.
+
+6. NO WARRANTIES.
+
+NETRIVET EXPRESSLY DISCLAIMS ANY WARRANTIES FOR PROPHOTO. PROPHOTO IS PROVIDED 
+AS IS, WITHOUT FAULTS OF ANY KIND, WITHOUT ANY EXPRESS OR IMPLIED WARRANTY THAT 
+EXIST BY STATUTE, COMMON LAW, CUSTOM, USAGE, OR OTHERWISE AS TO ANY MATTER, 
+INCLUDING, BUT NOT LIMITED TO PERFORMANCE, SECURITY, NON-INFRINGMENT OR THIRD 
+PARTY RIGHTS, INTEGRAION, MERCHANTIBILITY, QUIET ENJOYMENT, SATISFACTORY QUALITY 
+OR FITNESS OR A PARTICULAR PURPOSE. NETRIVET DOES NOT WARRANT OR ASSUME 
+RESPONSIBILITY FOR THE ACCURACY OR COMPLETENESS OF ANY INFORMATION, TEXT, GRAPHICS, 
+LINKS OR OTHER ITEMS CONTAINED WITHIN PROPHOTO. NETRIVET, INC. FURTHER EXPRESSLY 
+DISCLAIMS ANY WARRANTY OR REPRESENTATION TO YOU OR TO ANY THIRD PARTY.  THE 
+PROVISIONS OF THIS PARAGRAPH WILL SURVIVE THE TERMINATION OF THE EULA, BUT THIS 
+WILL NOT IMPLY OR CREATE ANY CONTINUED RIGHT TO USE PROPHOTO AFTER TERMINATION 
+OF THE EULA.
+
+7. LIMITATION OF LIABILITY.
+
+IN NO EVENT SHALL NETRIVET BE LIABLE FOR ANY LOSS, CLAIM, DAMAGES, OR COST 
+(INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, CONSEQUENTIAL, 
+INDIRECT, OR INCIDENTAL DAMAGES, OR LOST INFORMATION) ARISING OUT OR RELATED TO OF 
+THE USE OF OR INABILITY TO USE PROPHOTO, EVEN IF NETRIVET HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL NETRIVET BE LIABLE FOR LOSS OF DATA 
+OR FOR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL (INCLUDING LOST PROFIT), OR 
+OTHER DAMAGES BASED IN CONTRACT, TORT OR OTHERWISE. NETRIVET SHALL HAVE NO LIABILITY 
+WITH RESPECT TO THE CONTENT OF PROPHOTO OR ANY PART THEREOF, INCLUDING BUT NOT 
+LIMITED TO ERRORS OR OMISSIONS CONTAINED THEREIN, LIBEL, INFRINGEMENTS OF RIGHTS OF 
+PUBLICITY, PRIVACY, TRADEMARK RIGHTS, BUSINESS INTERRUPTION, PERSONAL INJURY, LOSS 
+OF PRIVACY, MORAL RIGHTS OR THE DISCLOSURE OF CONFIDENTIAL INFORMATION.  THE FOREGOING 
+EXCLUSIONS APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW IN YOUR JURISDICTION.  
+NETRIVET'S AGGREGATE LIABILITY UNDER OR IN CONNECTION WITH THE EULA WILL BE LIMITED TO 
+THE AMOUNT PAID FOR PROPHOTO, IF ANY.  THIS LIMITATION WILL APPLY EVEN IN THE EVENT OF 
+A FUNDAMENTAL OR MATERIAL BREACH OF THIS EULA.
+
+8.  INDEMNIFICATION.  
+
+You agree to indemnify, hold harmless and defend NetRivet, Inc., its shareholders, 
+directors, officers, employees, and agents from and against any loss, damage, claims 
+or lawsuits, including reasonable attorneys fees and costs that arise or result from 
+the use of ProPhoto.
+
+9.  MISCELLANEOUS.
+
+The EULA represents the entire agreement between the parties and it supersedes any 
+prior or contemporaneous representation, proposal, understanding, or agreement.  This 
+EULA is governed by and construed in accordance with the substantive law in force in 
+the State of Michigan regardless of where ProPhoto  is purchased, downloaded, or 
+installed.  In resolving any dispute relating or arising out of this EULA, you consent 
+to exclusive jurisdiction in the Federal Court for the Western District of Michigan.  
+This EULA will not be governed by the conflict of law rules of any jurisdiction in the 
+United Nation Convention on Contracts for the International Sale of Goods, the application 
+of which is expressly excluded.  If any part of this EULA is found void and unenforceable, 
+it will not affect the validity of the balance of this Agreement which will remain 
+valid and enforceable according to its terms and conditions.  This EULA may only be 
+modified in a writing signed by an authorized officer of NetRivet.  You agree that 
+ProPhoto will not be shipped, transferred or exported into another country or used in 
+any manner prohibited by the United States Export Administration Act or any other 
+export laws, restrictions or regulations (collectively the "Export Laws").  In addition, 
+if ProPhoto is identified as an export controlled item under the Export Laws, you 
+represent and warrant that you are not a citizen of, or located within, any embargoed 
+or otherwise restricted nation and that you are not otherwise prohibited under the 
+Export Laws from receiving ProPhoto .  All rights to use ProPhoto are granted on 
+condition that such rights are forfeited if you fail to comply with the terms of 
+this EULA.

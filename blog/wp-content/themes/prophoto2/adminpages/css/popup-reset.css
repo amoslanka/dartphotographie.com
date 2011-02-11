@@ -1,0 +1,14 @@
+/* Additional styles for the Reset Images iframed popup
+   (Styles defined in upload.css apply by default)
+*/
+
+
+@import url("popup.css");
+
+body {
+	background:#f99;
+}
+
+h3 {
+	display:block;
+}

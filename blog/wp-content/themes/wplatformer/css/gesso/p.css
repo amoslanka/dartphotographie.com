@@ -1,0 +1,18 @@
+body{background:none; color:#000; font-family:"Times New Roman", serif; font-size:12pt; line-height:1.4; margin:0; padding:0; width:100%;}
+h1{font-size:18pt;}
+h2{font-size:16pt;}
+h3{font-size:14pt;}
+h4,h5,h6{font-family:Helvetica, Arial, sans-serif; font-size:12pt;}
+code,pre{font:10pt Courier, monospace;}
+blockquote{font-size:10pt; margin:1.25em; padding:1em;}
+hr{background:#ccc; background-color:#ccc; border:none; color:#ccc; height:2px; margin:5px 0; padding:0; width:100%;}
+table{margin:1px; text-align:left;}
+th,td{border-bottom:1px solid #ccc; padding:4px 10px 4px 0;}
+tfoot{font-style:italic;}
+caption{background:#fff; margin-bottom:2em; text-align:left;}
+tr{page-break-inside:avoid;}
+a:link, a:visited{background:transparent; color:#ccc; text-decoration:underline;}
+a:link[href^="http://"]:after, a[href^="http://"]:visited:after{content:" (" attr(href) ") "; font-size:85%;}
+a[href^="http://"]{color:#000;}
+img{float:left; margin:1em 1.5em 1.5em 0;}
+a img{border:none;}

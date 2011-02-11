@@ -1,0 +1,10 @@
+/* Area CSS */
+
+body, td { 
+	margin: 0; 
+	padding: 7px; 
+	background: #FFF; 
+	font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana,sans-serif; 
+	font-size: 12px;
+}
+a { color: blue !important; } /* FF needs important */

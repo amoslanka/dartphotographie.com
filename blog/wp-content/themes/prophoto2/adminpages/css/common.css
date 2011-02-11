@@ -1,0 +1,94 @@
+/*
+Styles added to all the P2 admin pages
+*/
+:focus{
+	outline:0 !important;
+}
+#noie6 {
+	display:none;
+	position:absolute;
+	z-index:600;
+	width:80%;
+	background: red;
+	color: #fff;
+	padding:50px;
+	font-size:16px;
+	border:5px solid #000;
+}
+#noie6 a:link {
+	color:blue;
+}
+* html #noie6 {
+	display:block;
+}
+a:hover.click-for-explain,
+a.help-active {
+	background-position: -16px 0 !important;
+}
+a.click-for-explain {
+	cursor:pointer;
+	float:right;
+	margin:8px 9px 0 0;
+	width:16px;
+	height:16px;
+	overflow:hidden;
+	background:url(../../images/help.png) no-repeat top left;
+}
+* html a.click-for-explain {
+	margin:125px 145px 0 0;
+}
+.wrap h2 {
+	padding-right:0;
+	text-transform:capitalize;
+	padding: 14px 0 3px 0;
+	position:relative;
+}
+
+.bugs {
+	position:absolute;
+	top:11px;
+	right: 5px;
+	font-family:Arial, sans-serif;
+	font-size:13px;
+	padding-bottom:20px;
+}
+
+#screen-meta {
+	display:none;
+}
+
+#tTips {
+	display: none;
+	position: absolute;
+	margin: 0;
+	padding: 0 0 8px 0;
+	background-image: url(../../images/tail.gif);
+	background-repeat: no-repeat;
+	background-position: 25px bottom;
+	background-color: transparent;
+}
+
+#tTips p#tTips_inside {
+	margin: 0;
+	padding: 8px 12px;
+	text-align: center;
+	-moz-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+}
+
+/* self-clearing floats */
+.self-clear:after { /* self-clear the float */
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+* html .self-clear { /* for IE 5,6 */
+	height: 1%;
+} 
+*:first-child+html .self-clear { /* for IE7 */
+	min-height: 1px;
+}

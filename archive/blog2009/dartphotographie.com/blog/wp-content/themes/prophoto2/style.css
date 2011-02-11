@@ -1,0 +1,393 @@
+/*
+THEME NAME: ProPhoto2
+THEME URI: http://www.prophotoblogs.com/
+DESCRIPTION: A super-theme for professional photographers. Huge pictures, slideshow header, inline comments, professional bio area, completely customizable.  
+VERSION: 2.1
+AUTHOR: <a href="http://www.netrivet.com/">Jared Henderson, NetRivet Websites</a>
+AUTHOR URI: http://www.netrivet.com/
+TAGS: single column, flash header, customizable, inline comments
+.
+ProPhoto2 build release date: 05-4-2009 version 2.1, svn#429
+© 2008 NetRivet, Inc. - ProPhoto Theme files may not be shared or resold under penalty of law
+.
+.
+NOTE: This file should NOT BE EDITED
+.
+All custom styles for the theme are dynamically generated and
+written to a static .css file in wp-content/uploads/p2
+.
+Any CSS hand-edits should be added to the "Override Styles" section of "P2 Options > Advanced"
+.
+.
+.
+.
+*/
+
+
+
+
+
+
+
+/* reset styles - props eric meyer */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+:focus{outline:0;}
+body{line-height:1;color:black;background:white;}
+ol,ul{list-style:none;}
+table{border-collapse:separate;border-spacing:0;}
+caption,th,td{text-align:left;font-weight:normal;}
+blockquote:before,blockquote:after,
+q:before,q:after{content:"";}
+blockquote,q{quotes:"" "";}
+/* end reset */
+
+.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {
+	font-style:normal;
+	color:inherit;
+	font-family:inherit;
+	font-size:inherit;
+	font-weight:bold;
+	margin-bottom:.4em;
+}
+
+.entry-content h1 {
+	font-size:160%;
+}
+.entry-content h2 {
+	font-size:140%;
+}
+.entry-content h3 {
+	font-size:120%;
+}
+.entry-content h4 {
+	font-size:110%;
+}
+.entry-content h5 {
+	font-size:105%;
+}
+
+
+.p2-contact-message {
+	display:none;
+}
+
+#content {
+	overflow:hidden;
+}
+
+#contact-form .firstname {
+	display:none !important;
+}
+
+.entry-content ol {
+	list-style:decimal;
+	
+}
+.entry-content ul {
+	list-style:disc;
+}
+body.home .protected {
+	padding-bottom:0px;
+}
+body.single .comments-body {
+	max-height: none;
+}
+#contact-form {
+	border-bottom:solid 1px #ccc;
+}
+#contact-form form  {
+	padding:3.5% 3.5% 1.5% 3.5%;
+	margin-left:45%;
+}
+#contact-form div {
+	padding:3.5% 3.5% 1.5% 4.5%;
+	float:left;
+	display:inline;
+	width:36%;
+}
+#contact-form div p {
+	margin-bottom:1.2em;
+}
+#contact-form h2 {
+	font-size:1.3em;
+	margin-bottom:.4em;
+}
+#contact-form p {
+	margin-bottom:0;
+}
+#contact-form input, #contact-form textarea {
+	margin-bottom:10px;
+}
+.p2-contact-message p {
+	padding:6px;
+	text-align:center;
+	margin-bottom:0;
+	font-size:1.0em;
+}
+
+.entry-post {
+	clear:both;
+}
+
+#bio-inner {
+	padding:15px 0 25px 0;
+}
+
+* html #subscribebyemail-nav-input { /*ie6 is retarded*/
+	margin-right:-9px;
+}
+
+#content {
+	padding:40px 0 30px 0;
+}
+h2.entry-title,
+h3.entry-title {
+	margin: 0 0 30px 0;
+}
+
+#bio-outer {
+	padding-bottom:30px;
+}
+
+
+body.single .entry-post {
+	border-bottom: none;
+	background-image: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+h2 {
+	margin-bottom:.7em;
+}
+
+#audio-player-holder {
+	margin: 13px 0 0 0;
+	text-align:center;
+}
+
+
+body.single .entry-comments {
+	margin:15px 0 40px 0;
+}
+
+#commentform p {
+	margin:18px 0 2px 0;
+}
+#commentform input#submit {
+	margin-top:5px;
+}
+
+/* style protected post form a bit */
+.protected p input {
+	margin-bottom:8px;
+}
+
+
+/* nav area and links */
+#topnav {
+	text-transform:lowercase;
+}
+	#topnav li li {
+		padding-top:0;
+		margin-right:0;
+	}
+
+#topnav a {
+	cursor:pointer;
+}
+
+.entry-meta-bottom .posted-in {
+	display: inline;
+}
+
+.not-found {
+	margin-bottom:35px;
+}
+
+.edit-link-top {
+	margin-left:1.3em;
+}
+
+
+
+
+
+
+.entry-meta-top p {
+	margin-bottom:0;
+}
+
+/* self-clearing floats */
+.self-clear:after { /* self-clear the float */
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+* html .self-clear { /* for IE 5,6 */
+	height: 1%;
+} 
+*:first-child+html .self-clear { /* for IE7 */
+	min-height: 1px;
+}
+
+
+
+#topnav, #nav ul { /* all lists */
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+#topnav li li {
+	margin-right: 0;
+}
+
+#topnav a, #nav li.sfhover {
+	display: block;
+}
+#topnav li { /* all list items */
+	float: left;
+}
+#topnav li:hover {
+	position:static; /* help IE7 a bit */
+}
+#topnav li ul { /* second-level lists */
+	position: absolute;
+	width: 130px;
+	left: -999em; 
+}
+#topnav li ul a {
+	width:114px;
+	padding: 5px 8px;
+	font-size: 80%;	
+}
+#topnav li:hover ul, #topnav li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+}
+#topnav #searchsubmit-top {
+	margin-top: -3px;
+}
+#topnav li.topnavright {
+	margin-right: 0;
+}
+/* for child-categories, i.e, third-level lists */
+#topnav li ul ul {
+	margin: -2em 0 0 130px;
+	#margin-top:-1.85em;
+}
+#topnav li:hover ul ul, #topnav li.sfhover ul ul {
+	left: -999em;
+}
+#topnav li li:hover ul, #topnav li li.sfhover ul {
+	left: auto;
+}
+
+
+/* try to keep suckerfish drowpdowns above flash */
+#topnav {
+    z-index:2;
+} 
+#topnav ul {
+    z-index:3;
+}
+#topnav ul li {
+    z-index:4;
+}
+#topnav ul li ul {
+    z-index:5;
+}
+#topnav ul li ul li {
+    z-index:6;
+}
+#topnav a {
+    z-index:7;
+}
+
+body.single p#nav-below {
+	padding-top:.3em;
+	margin-bottom: .5em;
+}
+
+
+strong {
+	font-weight:700;
+}
+em {
+	font-style:italic;
+}
+blockquote {
+	padding-left: .8em;
+	margin-left: 2.2em;
+	font-size: .85em;
+}
+.aligncenter {
+display: block !important;
+margin-left: auto !important;
+margin-right: auto !important;
+}
+
+.alignright {
+margin: 0 0 15px 30px !important;
+display: inline !important;
+float: right !important;
+width:auto !important;
+}
+.alignleft {
+margin: 0 30px 15px 0 !important;
+display: inline !important;
+float:left !important;
+width:auto !important;
+}
+.wp-caption-text {
+	text-align:center !important;
+}
+.entry-comments {
+	clear:both;
+}
+
+.entry-comments {
+	margin-top:10px;
+}
+
+span.statcounter {
+	display:inline;
+}
+li#search-top ul {
+	padding:14px 8px 3px 8px;
+	width:auto !important;
+}
+li#search-top ul li input#s-top, li#search-top ul li input#searchsubmit-top {
+	margin-bottom:8px;
+}
+h1#alt-h1, h1#alt-h1 a, h2#alt-h1, h2#alt-h1 a {
+	height:0 !important;
+	overflow:hidden;
+	width:0 !important;
+	display:none !important;
+}
+li#nav-rss a {
+	float:left;
+}
+img.wp-smiley {
+	border:none !important;
+	padding:0 !important;
+	margin:0 !important;
+	float:none !important;
+	display:inline !important;
+}
+#maintenance-mode-remind {
+	padding:7px;
+	width:100%;
+	z-index:100000;
+	text-align:center;	
+	color:red;
+	position:absolute;
+	background-color:yellow;
+	border:2px solid orange;
+}
+#footer-sep {
+	padding:0 .3em;
+}

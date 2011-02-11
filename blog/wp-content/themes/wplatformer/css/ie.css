@@ -1,0 +1,12 @@
+/* 
+ * I know this hack (by Mark Wilton-Jones) for 'position:fixed' in IE6
+ * causes an annoying flicker effect. If you know another solution,
+ * please write to marco@centralscrutinizer.it. Thanks!
+ * Otherwise: wait the release of Internet Explorer 7, that support
+ * position:fixed, and in the meantime forget all with a "display: none;"
+ */
+#arrows {
+	position: absolute; 
+	top: expression( ( 440 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+	left: expression( ( 650 + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+}

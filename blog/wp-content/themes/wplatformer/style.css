@@ -1,0 +1,244 @@
+/*  
+THEME NAME: WPlatformer
+THEME URI: http://labs.utopian.net/blogs/wplatformer/
+DESCRIPTION: Side-scrolling like the platformer games of old, WPlatformer is derived from Marco Rosella's <a href="http://www.thehorizontalway.com">The Horizontal Way</a> HTML/CSS template and JavaScript.
+TAGS: three-columns, left-sidebar, white, light
+VERSION: 1.0.6
+AUTHOR: Utopian.net Laboratories
+AUTHOR URI: http://labs.utopian.net
+*/
+	@import url("css/gesso/s.css");
+
+body {
+	margin:0;
+	padding:0;
+	width: 3250px;
+	height: 509px;
+	color:#000; 
+	font: 62.5%/150% Tahoma, Sans-Serif; 
+	background: #fff url(img/bg.jpg) repeat-x left top;
+}
+body#commentspopup {
+	width:400px;
+	background-color:#c2c2c2;
+	padding-left:5px;
+}
+body#commentspopup code {
+	width:400px;
+}
+
+h1 {color:#000;font-size:2.3em;}
+h2 { font-size:1.4em;}
+h3 { font-size:1.2em;}
+
+hr, .hide {
+	position:absolute; 
+	top:0;
+    left:-9000px;
+}	
+
+#page {
+	height: 509px; 
+}
+
+#leftsider {
+	padding: 50px 0 0 50px;
+	float: left;
+	width:300px; 
+}
+
+.menu {
+	margin-top: 0px; 
+	padding-left: 6px;
+}
+
+.menu ul {
+	list-style: url(img/rightsmall.png);
+}
+
+a{
+	text-decoration: none;
+	color: #22b1e1;
+}
+
+a:hover{
+	color: #bd8cbf;
+}
+
+#content {
+	margin: 50px 0 0 0px; 
+	float: left;
+	width:auto;
+	font-size: 1.1em; 
+}
+
+#content h4 {font-size: 1.2em;}
+
+.par {
+	margin: 0px 30px 0 0px; 
+	padding-left: 30px; 
+	float: left; 
+	width: 315px;	
+	height: 350px;
+}
+
+.alt {/* modify this to add style to alternate sections*/}
+
+#note { 
+	margin-top:10px;
+}
+
+p.secbot a{
+	margin-top: -5px;
+	padding-left: 15px;
+	border-bottom:none;
+	color: #22b1e1;
+	background: url(img/leftsmall.png) no-repeat scroll left center;
+	text-decoration:none;
+	font-size:0.9em;
+}
+
+p.secbot a:hover {
+	border-bottom:1px solid #22b1e1;
+}
+
+#arrows {
+	position: fixed;
+	top: 460px;
+	left: 410px; 
+	width: 90px;
+	height: 30px;
+	cursor: pointer;
+}
+
+#arrows ul {	
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+
+#arrows ul li {
+	margin: 0;
+	padding: 0;
+	display:inline;
+	width: 40px;
+	height: 30px;
+}
+
+#arrows ul li a{
+	margin-right: 5px;
+	float: left;
+	display: block;
+	width: 40px;
+	height: 30px;
+	overflow: hidden;
+	cursor: pointer;
+	font-size: 50em;
+	text-indent: -9000px;
+}
+
+#arrows ul #left a {background: transparent url(img/leftbig.png) no-repeat;}
+#arrows ul #right a{background: transparent  url(img/rightbig.png) no-repeat;}
+#bottomwrap {
+	position:fixed;
+	top:520px;
+	left: 50px;
+}
+#bottombar {
+	height:60px;
+	margin-top:0px;
+}
+#sidebartwo {
+	padding:6px 0px 0px 6px;
+	width:250px;
+	height:300px;
+	float:left;
+}
+#sidebarthree {
+	padding:6px 0px 0px 6px;
+	width:250px;
+	height:300px;
+	float:left;
+	
+}
+#sidebarfour {
+	padding:6px 0px 0px 10px;
+	width:250px;
+	height:300px;	
+	float:left;
+}
+#sidebarfive {
+	padding:6px 0px 0px 6px;
+	width:250px;
+	height:300px;	
+	float:left;
+}
+li {list-style-type:none;}
+#rightsider {
+	padding: 0px 10px 0px 0;
+	width:200px;
+	float:left;
+}	
+
+#rightsider a{
+	color: #22b1e1;
+	text-decoration: none;
+}
+.entry {
+	margin: 0px 30px 0 0px; 
+	padding-left: 30px; 
+	width: 315px;	
+	height: auto;
+}
+/* Image align classes */
+.aligncenter, div.aligncenter, img.centered{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img.alignleft{
+	display: inline;
+	margin: 0 7px 2px 0;
+	padding: 4px;
+}
+img.alignright{
+	display: inline;
+	margin: 0 0 2px 7px;
+	padding: 4px;
+}
+.alignleft{
+	float: left
+}
+.alignright{
+	float: right;
+}
+.emph {
+	margin-top:-14px;
+}
+/* WordPress img captions */
+.wp-caption{
+	background-color: #eeeeee;
+	border: 1px solid #ddd;
+	margin: 10px;
+	padding-top: 4px;
+	text-align: center;
+}
+.wp-caption img{
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+}
+.wp-caption p.wp-caption-text{
+	font-size: 0.8em;
+	padding: 1em 4px 0 5px;
+}
+.img_thumb {margin:0 6px 0 6px};
+img .gal {
+	max-height:300px;max-width: 315px!important;
+}
+.commentlist {
+	width:350px;
+}
+p.comments {
+	max-width:350px;
+}

@@ -1,0 +1,21 @@
+	/* Additional styles for the popups
+   (Styles defined in upload.css apply by default)
+*/
+
+html {
+	overflow:hidden; /* otherwise: scrollbars */
+}
+
+body {
+	background:#b6cdec;
+	padding:1em;
+}
+
+h3 {
+	display:none;
+	margin-top:.3em !important;
+}
+
+.upload-html-bypass {
+	display:none;
+}

@@ -1,0 +1,146 @@
+.font-preview  {
+	background: #ffffff;
+}
+.font-preview {
+	font-family:Times, Georgia, serif;
+	color:#514747;
+	font-size:12px;
+	margin-bottom:13px;
+	line-height:1.5em;
+}
+.font-preview a {
+	font-style:normal;
+}
+.font-preview a.unvisited {
+	color:#514747;
+	text-decoration:none;
+}
+.font-preview a.visited {
+	color:;
+	text-decoration:none;
+}
+.font-preview a:hover {
+	text-decoration:none;
+}
+#header_font_family-font-preview {
+	font-size: 16px; 
+}
+#nav_bg_color-font-preview {
+	width: 235px;
+	padding:0;
+}
+
+#nav_bg_color-font-preview a.visited, 
+#nav_bg_color-font-preview a.unvisited {
+	background: #f2f2f2;
+	background: #f1f1f1;
+	font-size: 	12px;
+}
+#nav_bg_color-font-preview a.title {
+	background: #f2f2f2;
+	font-size: 	12px;
+}
+#nav_bg_color-font-preview ul {
+	padding-left:0;
+	margin:0;
+	padding:0;
+}
+#nav_bg_color-font-preview li {
+	list-style:none;
+	padding-left:0;
+	margin-bottom:0;
+}
+#nav_bg_color-font-preview li a {
+	display:block;
+	padding:7px;
+	margin:0;
+}
+#nav_bg_color-font-preview li a.visited {
+	color: #514747; 
+	color: #cccccc; 
+}
+#bio_header_font_family-font-preview {
+		font-family:Times, Georgia, serif;
+	color:#514747;
+	font-style:normal;
+	font-size:16px;
+	text-transform:lowercase;
+	font-weight:700;
+ 
+	}
+#bio_para_font_family-font-preview {
+	}
+#post_title_link_font_size-font-preview a {
+		font-family:Times, Georgia, serif;
+	color:#514747;
+	font-style:normal;
+	font-size:16px;
+	text-transform:lowercase;
+	font-weight:700;
+ 
+}
+#archive_h2_font_family-font-preview {
+		font-family:Times, Georgia, serif;
+	color:#514747;
+	font-style:normal;
+	font-size:16px;
+	text-transform:lowercase;
+	font-weight:700;
+ 
+		color:#666666;
+	font-style:normal;
+	font-size:19px;
+	margin-bottom:30px;
+}
+#single_h1_font_family-font-preview {
+	font-family:Times, Georgia, serif;
+	color:#514747;
+	font-style:normal;
+	font-size:16px;
+	text-transform:lowercase;
+	font-weight:700;
+		font-style:normal;
+	 
+}
+#comments_header_link_font_size-font-preview {
+	font-size:11px; 
+	background:#ffffff; 
+}
+#comments_link_font_size-font-preview {
+	font-size:11px; 
+	background:#ffffff;
+	padding:10px !important;
+}
+#footer_headings_font_family-font-preview {
+	font-size:12px; 
+	background:#f1f1f1;
+}
+#footer_link_font_size-font-preview {
+	background:#f1f1f1; 
+}
+#post_title_link_font_size-font-preview a {
+	font-size:px; 
+}
+#emt_font_family-font-preview {
+	font-size:11px;
+}
+#emb_font_family-font-preview {
+	font-size:11px;
+}
+#bio_header_font_family-font-preview, #bio_para_font_family-font-preview {
+	}
+span#comment-timestamp {
+	float:left;
+ 
+}
+#gen_font_family-font-preview {
+	line-height: 1.5em;
+}
+#post_text_font_family-font-preview p {
+	line-height: 1.5em;
+	}
+.hidden-option {
+	display:none}
+#emt_font_family-font-preview, #post_title_link_font_size-font-preview {
+	text-align:center;
+}
